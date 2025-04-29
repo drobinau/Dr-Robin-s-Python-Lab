@@ -1,3 +1,5 @@
+https://www.angusrobertson.com.au/ebooks/a-not-too-short-introduction-to-python-robin-wang/p/9798227828514?srsltid=AfmBOookAj3OmUo-WL6xm7odP--alDV96I7YhCHDBzcGTGnFAqSPxPJV
+
 Unlock the power of Python programming. 
 
 Whether you are a high school student curious about coding or an adult wanting to learn programming for the first time, "A Not Too Short Introduction to Python" offers a complete and accessible introduction to Python. Written by Robin Wang (Dr. Robin), an experienced teacher and coding expert, this book bridges the gap between Python's beginner-friendly syntax and more advanced programming concepts. 
