@@ -1,4 +1,8 @@
-https://www.booktopia.com.au/from-numpy-to-networkx-a-pythonic-adventure-in-mathematics-robin-wang/ebook/9798230764113.html?srsltid=AfmBOoob6ObppYJshmGUQTYUxX8xt3NP6eshMHPoI3RX5LaZw_eNzFeG
+Smashwords
+https://www.smashwords.com/books/view/1670970
+
+Kobo
+https://www.kobo.com/au/en/ebook/from-numpy-to-networkx-a-pythonic-adventure-in-mathematics
 
 In this third and final installment of Dr. Robin Wang's Python and Mathematics trilogy, From NumPy to NetworkX: A Pythonic Adventure in Mathematics explores advanced topics that bridge high school and university-level mathematics.
 
