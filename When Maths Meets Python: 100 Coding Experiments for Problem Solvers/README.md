@@ -1,4 +1,8 @@
+Smashwords
 https://www.smashwords.com/books/view/1653614?ref=nightwhistler
+
+Kobo
+https://www.kobo.com/au/en/ebook/when-maths-meets-python-100-coding-experiments-for-problem-solvers
 
 When Maths Meets Python: 100 Coding Experiments for Problem Solvers bridges the fascinating world of mathematics with the versatility of Python programming. Whether you're new to coding or already familiar with Python, this book offers an engaging, hands-on journey into solving mathematical problems through code.
 
