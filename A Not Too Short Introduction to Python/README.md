@@ -1,4 +1,8 @@
-https://www.angusrobertson.com.au/ebooks/a-not-too-short-introduction-to-python-robin-wang/p/9798227828514?srsltid=AfmBOookAj3OmUo-WL6xm7odP--alDV96I7YhCHDBzcGTGnFAqSPxPJV
+Smashwords
+https://www.smashwords.com/books/view/1640804
+
+Kobo
+https://www.kobo.com/au/en/ebook/a-not-too-short-introduction-to-python
 
 Unlock the power of Python programming. 
 
